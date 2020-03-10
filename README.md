@@ -1,3 +1,9 @@
+# Archived repository
+
+Please use https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk instead.
+
+
+
 # Microchip MPFS-DEV-KIT Linux Software Development Kit
 
 This builds a complete RISC-V cross-compile toolchain for the Microchip 
